@@ -1,6 +1,6 @@
 # accordion
 ![randomcolor](https://github.com/javadashtiani/randomcolor/assets/134012615/20bf1613-f917-41eb-816b-55c0cb8e04b6)
-- 🔗 [https://javadashtiani.github.io/randomcolor/](https://javadashtiani.github.io/accordion/)
+- 🔗 (https://javadashtiani.github.io/accordion/)
 - 💻 Developed by Javad Ashtiani
 - 📆 Created - 2023
 - 🔧 Technologies Used - html,css,java script
