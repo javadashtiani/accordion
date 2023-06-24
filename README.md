@@ -1,5 +1,5 @@
 # accordion
-![randomcolor](https://github.com/javadashtiani/randomcolor/assets/134012615/20bf1613-f917-41eb-816b-55c0cb8e04b6)
+![accordion](https://github.com/javadashtiani/accordion/assets/134012615/3af508cb-c923-418f-876a-db2571771cd0)
 - 🔗 (https://javadashtiani.github.io/accordion/)
 - 💻 Developed by Javad Ashtiani
 - 📆 Created - 2023
